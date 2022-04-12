@@ -1,0 +1,154 @@
+* {
+  box-sizing: border-box;
+}
+
+.products {
+  width: 1110px;
+}
+.product-heading {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #838383;
+  margin: 0;
+  margin-bottom: 20px;
+}
+.phone-list {
+  display: flex;
+  /* align-content: center; */
+  /* justify-content: space-between; */
+  list-style-type: none;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 30px;
+  width: 1110px;
+}
+.phone-list-items {
+  /* width: 350px; */
+  /* height: 400px; */
+  /* width: 100%; */
+  background: #ffffff;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 30px;
+}
+.phone-list-items + .phone-list-items {
+  margin-left: 40px;
+}
+.phone-link {
+  text-decoration: none;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #1c1c27;
+}
+.phone-link:hover {
+  color: #1c1c27;
+}
+.phone-img {
+  /* margin-bottom: 20px; */
+  /* margin: 20px 100px; */
+}
+.phone-title {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/* Airphone style */
+.airphone {
+  max-width: 1110px;
+  width: 100%;
+}
+.airphone-list {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  list-style-type: none;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  margin: -15px;
+  margin-bottom: 50px;
+}
+.airphone-list-items {
+  width: 320px;
+  background: #ffffff;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 30px;
+  margin: 15px;
+}
+.airphone-link {
+  text-decoration: none;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #1c1c27;
+}
+.airphone-img {
+  margin-left: auto;
+  margin-right: auto;
+
+  display: flex;
+  width: 220px;
+  height: 200px;
+  padding-top: 10px;
+  margin-bottom: 20px;
+}
+.airphone-text-box {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 22px;
+  /* margin-bottom: 32px; */
+  margin: 0 25px 35px 25px;
+}
+.airphone-title {
+  margin-left: 25px;
+  text-align: center;
+  /* margin-bottom: 50px; */
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #1c1c27;
+  margin: 0;
+}
+.price {
+  margin-left: auto;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #ffa542;
+  margin: 0;
+}
+.raiting {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 21px;
+  color: #838383;
+  margin-left: 15px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+}
+.star {
+  margin: 0 10px 0 25px;
+}

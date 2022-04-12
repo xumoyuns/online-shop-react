@@ -1,0 +1,39 @@
+.services-wrapper {
+  max-width: 1107px;
+  width: 100%;
+}
+.services-box {
+  background: #ffffff;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 30px;
+  margin-bottom: 33px;
+}
+.text-box {
+  padding: 15px 30px;
+}
+.services-heading {
+  margin: 0;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #1c1c27;
+  margin-bottom: 15px;
+}
+
+.services-desc {
+  margin: 0;
+  max-width: 1100px;
+  /* width: 100%; */
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 21px;
+
+  color: #000000;
+  margin: 0px 0px 10px 24px;
+}

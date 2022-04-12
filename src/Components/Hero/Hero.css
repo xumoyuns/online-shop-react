@@ -1,0 +1,36 @@
+.site-main {
+}
+.hero {
+  margin-bottom: 45px;
+}
+.hero-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #101010;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 30px;
+}
+.hero-heading {
+  max-width: 285px;
+  width: 100%;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+  text-align: center;
+  color: #ffffff;
+  padding: 80px 0 60px 0px;
+  margin-bottom: 0;
+  margin-left: 150px;
+}
+.image-wrapper {
+  position: relative;
+}
+
+.hero-img {
+  position: absolute;
+  top: -139px;
+  right: 100px;
+}

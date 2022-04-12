@@ -1,0 +1,273 @@
+{
+  "phone": [
+    {
+      "id": 1,
+      "productTitle": "Samsung Galaxy A32",
+      "memory": 64,
+      "ram": 6,
+      "operatingSystem": "Android 11, One UI 3.1",
+      "protsessor": "Mediatek MT6769V/CU Helio G80 (12 nm)",
+      "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+      "gpu": "Mali-G52 MC2",
+      "performance": "AnTuTu: 286666 (v8)",
+      "display": "Super AMOLED, 90Hz, 800 nits (HBM)",
+      "resolution": "1080 x 2400 pixels, 20:9 ratio (~411 ppi density)",
+      "charging": "Fast charging 15W",
+      "type": "Li-Ion 5000 mAh, non-removable",
+      "price": 3335000,
+      "productImage": "https://bit.ly/3w4ayFc",
+      "image": [
+        "https://bit.ly/3w4ayFc",
+        "https://bit.ly/3JgUzY8",
+        "https://bit.ly/3CEvRy2",
+        "https://bit.ly/34HRJw8",
+        "https://bit.ly/3q0y7uo",
+        "https://bit.ly/37u1EGH"
+      ]
+    },
+
+    {
+      "id": 2,
+      "productTitle": "Apple iPhone 13 Pro Max",
+      "memory": 128,
+      "ram": 6,
+      "operatingSystem": "iOS 15, upgradable to iOS 15.3",
+      "protsessor": "Apple A15 Bionic (5 nm)",
+      "cpu": "Hexa-core (2x3.22 GHz Avalanche + 4xX.X GHz Blizzard)",
+      "gpu": "Apple GPU (5-core graphics)",
+      "performance": "AnTuTu: 801691 (v9)",
+      "display": "Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1200 nits (peak)",
+      "resolution": "1284 x 2778 pixels, 19.5:9 ratio (~458 ppi density)",
+      "charging": "Fast charging (27W, unofficial rating), 50% in 30 min (advertised)",
+      "type": "Li-Ion 4352 mAh, non-removable (16.75 Wh)",
+      "price": 14249500,
+      "productImage": "https://bit.ly/3waWU32",
+      "image": [
+        "https://bit.ly/3tResyd",
+        "https://bit.ly/3tU4iNn",
+        "https://bit.ly/3t66p1w",
+        "https://bit.ly/3MNgPLm",
+        "https://bit.ly/3KLWZON",
+        "https://bit.ly/3imzZtz"
+      ]
+    },
+    {
+      "id": 3,
+      "productTitle": "Huawei P50 Pro",
+      "memory": 128,
+      "ram": 8,
+      "operatingSystem": "HarmonyOS 2.0 (China), EMUI 12 (Europe), no Google Play Services",
+      "protsessor": "Kirin 9000 (5 nm)",
+      "cpu": "Octa-core (1x3.13 GHz Cortex-A77 & 3x2.54 GHz Cortex-A77 & 4x2.05 GHz Cortex-A55),Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)",
+      "gpu": "Mali-G78 MP24,Adreno 660",
+      "performance": "AnTuTu: 793876 (v8), 786215 (v9)",
+      "display": "OLED, 1B colors, 120Hz",
+      "resolution": "1228 x 2700 pixels (~450 ppi density)",
+      "charging": "Fast charging 66W",
+      "type": "Li-Po 4360 mAh, non-removable",
+      "price": 8234101,
+      "productImage": "https://bit.ly/3IgzsUl",
+      "image": [
+        "https://bit.ly/3tX1e2T",
+        "https://bit.ly/3JfiQ0v",
+        "https://bit.ly/3q2JcLE",
+        "https://bit.ly/3vZRqrP",
+        "https://bit.ly/37t9foU",
+        "https://bit.ly/3CFEad8"
+      ]
+    }
+  ],
+  "airphone": [
+    {
+      "id": 1,
+      "title": "AirPods 1",
+      "batery": "bir holatda 398 mA/soat",
+      "type": "Mikrofonli Bluetooth naushniklar",
+      "frame": "plastik",
+      "weight": 8,
+      "price": 150,
+      "workingTime": 5,
+      "productImage": "https://www.linkpicture.com/q/Apple_AirPods_2-removebg.png",
+      "image": [
+        "https://www.linkpicture.com/q/Apple_AirPods_2-removebg.png",
+        "https://bit.ly/34FilxR",
+        "https://bit.ly/3w9rdap",
+        "https://bit.ly/3MJtjU6",
+        "https://bit.ly/3w5tyTK",
+        "https://apple.co/3Jc0YDA",
+        "https://apple.co/3CJ0liK",
+        "https://apple.co/3i2CK2X"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "title": "AirPods 1",
+      "batery": "bir holatda 398 mA/soat",
+      "type": "Mikrofonli Bluetooth naushniklar",
+      "frame": "plastik",
+      "weight": 8,
+      "price": 150,
+      "workingTime": 5,
+      "productImage": "https://www.linkpicture.com/q/Apple_AirPods_2-removebg.png",
+      "image": [
+        "https://www.linkpicture.com/q/Apple_AirPods_2-removebg.png",
+        "https://bit.ly/34FilxR",
+        "https://bit.ly/3w9rdap",
+        "https://bit.ly/3MJtjU6",
+        "https://bit.ly/3w5tyTK",
+        "https://apple.co/3Jc0YDA",
+        "https://apple.co/3CJ0liK",
+        "https://apple.co/3i2CK2X"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "title": "AirPods 1",
+      "batery": "bir holatda 398 mA/soat",
+      "type": "Mikrofonli Bluetooth naushniklar",
+      "frame": "plastik",
+      "weight": 8,
+      "price": 150,
+      "workingTime": 5,
+      "productImage": "https://www.linkpicture.com/q/Apple_AirPods_2-removebg.png",
+      "image": [
+        "https://www.linkpicture.com/q/Apple_AirPods_2-removebg.png",
+        "https://bit.ly/34FilxR",
+        "https://bit.ly/3w9rdap",
+        "https://bit.ly/3MJtjU6",
+        "https://bit.ly/3w5tyTK",
+        "https://apple.co/3Jc0YDA",
+        "https://apple.co/3CJ0liK",
+        "https://apple.co/3i2CK2X"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "title": "AirPods 1",
+      "batery": "bir holatda 398 mA/soat",
+      "type": "Mikrofonli Bluetooth naushniklar",
+      "frame": "plastik",
+      "weight": 8,
+      "price": 150,
+      "workingTime": 5,
+      "productImage": "https://www.linkpicture.com/q/Apple_AirPods_2-removebg.png",
+      "image": [
+        "https://www.linkpicture.com/q/Apple_AirPods_2-removebg.png",
+        "https://bit.ly/34FilxR",
+        "https://bit.ly/3w9rdap",
+        "https://bit.ly/3MJtjU6",
+        "https://bit.ly/3w5tyTK",
+        "https://apple.co/3Jc0YDA",
+        "https://apple.co/3CJ0liK",
+        "https://apple.co/3i2CK2X"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "title": "AirPods 1",
+      "batery": "bir holatda 398 mA/soat",
+      "type": "Mikrofonli Bluetooth naushniklar",
+      "frame": "plastik",
+      "weight": 8,
+      "price": 150,
+      "workingTime": 5,
+      "productImage": "https://www.linkpicture.com/q/Apple_AirPods_2-removebg.png",
+      "image": [
+        "https://www.linkpicture.com/q/Apple_AirPods_2-removebg.png",
+        "https://bit.ly/34FilxR",
+        "https://bit.ly/3w9rdap",
+        "https://bit.ly/3MJtjU6",
+        "https://bit.ly/3w5tyTK",
+        "https://apple.co/3Jc0YDA",
+        "https://apple.co/3CJ0liK",
+        "https://apple.co/3i2CK2X"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 6,
+      "title": "AirPods Max",
+      "batery": "bir holatda 398 mA/soat",
+      "type": "Mikrofonli Bluetooth naushniklar",
+      "frame": "plastik",
+      "weight": 8,
+      "price": 250,
+      "workingTime": 5,
+      "productImage": "https://bit.ly/37B5zS7",
+      "image": [
+        "https://www.linkpicture.com/q/Apple_AirPods_2-removebg.png",
+        "https://bit.ly/34FilxR",
+        "https://bit.ly/3w9rdap",
+        "https://bit.ly/3MJtjU6",
+        "https://bit.ly/3w5tyTK",
+        "https://apple.co/3Jc0YDA",
+        "https://apple.co/3CJ0liK",
+        "https://apple.co/3i2CK2X"
+      ],
+      "rating": 4.5
+    }
+  ],
+  "wireless": [
+    {
+      "id": 1,
+      "title": "Borofone BM30",
+      "design": "laynerlar",
+      "mic": "kabelda",
+      "connectionType": "simli",
+      "connection": "mini-Jack (3.5 mm)",
+      "cableLength": 1.2,
+      "cableType": "dumaloq",
+      "productImage": "https://bit.ly/3tX9akM",
+      "price": 10,
+      "image": [
+        "https://bit.ly/3tX9akM",
+        "https://bit.ly/3w60hIA",
+        "https://bit.ly/35W6fkv",
+        "https://bit.ly/3pZpgcI"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "title": "Xiaomi Piston H",
+      "design": "laynerlar",
+      "mic": "kabelda",
+      "connectionType": "simli",
+      "connection": "mini-Jack (3.5 mm)",
+      "cableLength": 1.4,
+      "cableType": "dumaloq",
+      "productImage": "https://bit.ly/3pZpgcI",
+      "price": 10,
+      "image": [
+        "https://bit.ly/3MKZeDD",
+        "https://bit.ly/3w60hIA",
+        "https://bit.ly/35W6fkv",
+        "https://bit.ly/3pZpgcI"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "title": "Sven AP-G988MV",
+      "design": "laynerlar",
+      "mic": "kabelda",
+      "connectionType": "simli",
+      "connection": "mini-Jack (3.5 mm)",
+      "cableLength": 1.4,
+      "cableType": "dumaloq",
+      "productImage": "https://bit.ly/36dEzav",
+      "price": 100,
+      "image": [
+        "https://bit.ly/3CN87bd",
+        "https://bit.ly/37hQ1SW",
+        "https://bit.ly/3MQ5xpC",
+        "https://bit.ly/3w35T6c"
+      ],
+      "rating": 4.5
+    }
+  ]
+}

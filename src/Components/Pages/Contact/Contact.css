@@ -1,0 +1,81 @@
+.adress-box {
+  max-width: 760px;
+  width: 100%;
+  background: #ffffff;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 30px;
+  margin-bottom: 44px;
+  padding: 15px;
+}
+.contact-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.adrees-heading {
+  margin: 0;
+  padding: 15px 0 0px 0;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #1c1c27;
+  margin-bottom: 20px;
+}
+.location-img {
+  width: 730px;
+  height: 424px;
+  margin-bottom: 15px;
+  /* margin-left: 15px; */
+}
+
+.location-wrapper {
+  display: flex;
+  align-items: center;
+}
+.location-adress {
+  margin-left: 15px;
+}
+.location-desc {
+  margin: 0;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+
+  color: #000000;
+}
+.location-home {
+  margin: 0;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 16px;
+  /* identical to box height */
+
+  color: #838383;
+}
+.telephone-wrapper {
+  display: flex;
+  align-items: start;
+  margin-left: -480px;
+}
+.telephone {
+  margin: 0;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+
+  color: #000000;
+  margin-left: 28px;
+
+  margin-bottom: 40px;
+}
